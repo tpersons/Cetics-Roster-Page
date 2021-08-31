@@ -1,0 +1,138 @@
+/*HEX Color Names for Boston Celtics	
+Celtics Green	#007A33
+Celtics Gold	#BA9653
+Celtics Brown	#963821
+White	#FFFFFF
+Black	#000000
+Celtics Gray #2A3236*/
+
+.bg-green {
+    background-color: #007A33;
+}
+.bg-drkgreen {
+    background-color: #00642a;
+}
+.bg-gold {
+    background-color: #BA9653;
+}
+.bg-gray {
+    background-color: #2A3236;
+}
+#header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #BA9653;
+    font-weight: bolder;
+}
+#bc-title {
+    text-align: center;
+    padding: 20px 
+}
+#head-img {
+    float: right;
+    padding: 10px 15px 0px 0px;
+}
+.cellgold {
+    background-color: #BA9653;
+}
+.celldrkgold {
+    background-color: #91733c;
+}
+#statshead {
+   background-color: #2A3236;
+   color: #BA9653;
+   padding-left: 5px;
+}
+#statstable {
+    margin: 5px;
+    border-right-width: 5px;
+}
+table tr {
+    border-color: rgb(49, 49, 49);
+    border-width: 2px;
+}
+#seasoninfo {
+    border-bottom: solid 2px black;
+    background-color: white;
+    padding-left: 5px;
+    
+}
+#topbtn {
+    font-weight: bolder;
+    position: fixed;
+    bottom: 5px;
+    right: 12px;  
+}
+#seasonstats {
+    background-color:#00642a ;
+}
+#playerinfo {
+    border: solid;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-color: #BA9653;
+}
+.bordergld {
+    border-bottom: solid 5px #BA9653;
+}
+.borderdrkgld{
+    border-bottom: solid 5px #91733c;
+}
+.center {
+    text-align: center;
+}
+.paddingtop {
+    padding: 20px 0px 20px 0px;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #00642a;
+}
+h3 {
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    color: #BA9653;
+    font-size: 25pt;
+}
+.playerimg {
+    padding: 20px;
+    border: solid 2px #BA9653;
+    margin-bottom: 25px;
+    box-shadow: 14px 7px 10px;
+}
+#footer {
+    color: #BA9653;
+    text-align: center;
+    font-size: 13pt;
+    background-color: #2A3236;
+}
+p {
+    color: black;
+}
+#greeting {
+    color: #BA9653;
+    font-size: 30pt;
+    padding-left: 5px;
+    
+    
+}
+#welcome {
+    border-bottom-style: solid;
+    border-bottom-color: #2A3236 ;
+}
+.goldtxt {
+    color: #BA9653;
+}
+.btnborder {
+    border: solid 2px rgb(19, 19, 19);
+}
+.bttncolor{
+    background-color: #2A3236; 
+    color: #BA9653; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-weight: bolder; 
+    font-size: large;
+}
+.bttncolor:hover {
+    color: #BA9653;
+    background-color: rgb(22, 22, 22);
+    border-color: black;
+}
